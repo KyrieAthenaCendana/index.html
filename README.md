@@ -42,39 +42,44 @@ bold flavors and aromatic spices: "Tom Yum Goong is a classic Thai soup renowned
  <li> <sub>1</sub> tablespoon of chili paste gives the soup its signature heat. </li>
  </ul>
 
- <img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg" alt="Tom Yum Goong" width="300">
+<br>
+<img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg" alt="Tom Yum Goong">
+</p>
 
+<table border="1"
+cellpadding="5"
+cellspacing="0">
+<thead>
+<tr>
+<th>Ingridients</th>
+<th>quantity</th>
+</tr>
+</thead>
+<tbody>
 
- <table border="1"><br>
-  <tr>
-      <th colspan="2">Recipe Details</th>
-  </tr>
-  <tr>
-    <th>Ingredient</th>
-    <th>Quantity</th>
-  </tr>
-  <tr>
-      <td colspan="1">Lemongrass:</td>
-      <td>2 stalks</td>
-  </tr>
-  <tr>
-      <td>Thai Basil:</td>
-      <td>1 cup</td>
-  </tr>
-  <tr>
-      <td>Kaffir Lime Leaves:</td>
-      <td>3 leaves</td>
-  </tr>
-  <tr>
-      <td>Shrimp:</td>
-      <td>500g</td>
-  </tr>
-  <tr>
-     <td colspan="2"><strong>Preperation time:</strong>20 minutes</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Serving Suggestions:</strong>Serve with steamed rice or jasmine tea</td>
-     </tr>
- </table>
+<tr>
+<td>Lemongrass</td>
+<td>2 stalks</td>
+</tr>
+<tr>
+<td>Thai basil</td>
+<td>1 cup</td>
+</tr>
+<tr>
+<td>Kaffir Lime Leaves</td>
+<td>3 leaves</td>
+</tr>
+<tr>
+<td>Shrimp</td>
+<td>500g</td>
+</tr>
+<tr>
+    <td colspan="2">preperation time: 20 minutes</td>
+</tr>
+<tr>
+    <td colspan="2"><strong>Serving Suggestion:</strong>serve with steamed or jasmine tea.</td>
+</tr>
+</tbody>
+</table>
 </body>
 </html>
