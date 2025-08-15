@@ -36,23 +36,21 @@ bold flavors and aromatic spices: "Tom Yum Goong is a classic Thai soup renowned
 <li><strong>4.<em>Season</em> with fish sauce, lime juice, and chili paste.</strong><br></li>
 <li><strong>5.<em>Garnish</em> with Thai basil and serve hot.</strong></li>
 </ol>
+<h2>Cooking Tips:</h2>
+ <ul>
+ <li> <sup>1/4</sup> cup of fish sauce adds authentic Thai flavor. </li>
+ <li> <sub>1</sub> tablespoon of chili paste gives the soup its signature heat. </li>
+ </ul>
 
-<h2>Cooking Tips</h2>
-<ul>
-<li><sup>1/4</sup>cup of fish sauce adds authentic Thai flavor.</li>
-<li><sub>1</sub>tablespoon of chili paste gives the soup its signature heat.</li>
-</ul>
-<img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg"alt="tom yum goong"/>
+ <img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg" alt="Tom Yum Goong" width="300">
 
-<br><br>
-<table border="1"
-cellpadding="5"
-cellspacing="0">
-<caption><strong>recipe details</strong></caption>
-<thread>
-<tr>
-    
-<th>Ingredient</th>
+
+ <table border="1"><br>
+  <tr>
+      <th colspan="2">Recipe Details</th>
+  </tr>
+  <tr>
+    <th>Ingredient</th>
     <th>Quantity</th>
   </tr>
   <tr>
@@ -72,13 +70,11 @@ cellspacing="0">
       <td>500g</td>
   </tr>
   <tr>
-    <td colspan="2">preperation time: 20 minutes</td>
-</tr>
-<tr>
-    <td colspan="2"><strong>Serving Suggestion:</strong>serve with steamed or jasmine tea.</td>
-</tr>
-</tbody>
-</table>
-
+     <td colspan="2"><strong>Preperation time:</strong>20 minutes</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Serving Suggestions:</strong>Serve with steamed rice or jasmine tea</td>
+     </tr>
+ </table>
 </body>
 </html>
