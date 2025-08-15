@@ -51,17 +51,27 @@ cellspacing="0">
 <caption><strong>recipe details</strong></caption>
 <thread>
 <tr>
-<th>Ingridients</th>
-<th>quantity</th>
-</tr>
-</thread>
-<tbody>
-    <tr>
-        <td>lemongrass</td>
-        <td>2 stalks</td>
-    </tr>
-
-<tr>
+    
+<th>Ingredient</th>
+    <th>Quantity</th>
+  </tr>
+  <tr>
+      <td colspan="1">Lemongrass:</td>
+      <td>2 stalks</td>
+  </tr>
+  <tr>
+      <td>Thai Basil:</td>
+      <td>1 cup</td>
+  </tr>
+  <tr>
+      <td>Kaffir Lime Leaves:</td>
+      <td>3 leaves</td>
+  </tr>
+  <tr>
+      <td>Shrimp:</td>
+      <td>500g</td>
+  </tr>
+  <tr>
     <td colspan="2">preperation time: 20 minutes</td>
 </tr>
 <tr>
